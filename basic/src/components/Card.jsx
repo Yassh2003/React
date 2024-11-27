@@ -22,8 +22,8 @@ const Card = (props) => {
             <div id='per-div'>
                 <p>{props.perdiv}</p>
             </div>
-            <div id='but-div'>
-                <Button style={{"backgroundColor":"black","color":"white"}}/>
+            <div id={props.preid}>
+                <Button/>
             </div>
         </div>
     </div>
