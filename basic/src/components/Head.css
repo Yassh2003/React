@@ -1,0 +1,13 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+#r-header{
+    line-height: 53px;
+    font-weight: 900;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#l-header{
+    font-weight: 900;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
